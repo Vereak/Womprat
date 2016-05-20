@@ -1,0 +1,22 @@
+div {
+    border-radius: 5px;
+    border: 2px dashed darkgreen;
+}
+
+#skeleton {
+    height: 200px;
+    width: 200px;
+    top:150px;
+    right: 50px;
+    position: absolute;
+    background-color: chartreuse;
+    Border: 3px solid yellow;
+}
+
+#blob {
+    height: 500px;
+    width: 500px;
+    background-color: aqua;
+    position: relative;
+    margin: 0 auto;
+}
