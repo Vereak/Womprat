@@ -1,0 +1,18 @@
+body {
+    margin: 30px;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+a {
+    border: 2px dashed saddlebrown;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+a:hover {
+    background-color: darkgreen;
+}
