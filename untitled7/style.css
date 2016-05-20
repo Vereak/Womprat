@@ -1,0 +1,17 @@
+* {
+    border: 3px dashed saddlebrown;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+    background: chartreuse;
+    color: darkgoldenrod;
+}
+
+#intrusiveskeleton {
+    position: relative;
+    top: 40px;
+    left:40px;
+    background-color: darkgreen;
+}
